@@ -1,15 +1,32 @@
 # Real-Time Weather Dashboard
-A simple weather dashboard application built using Python and Tkinter. This app retrieves real-time weather data for cities around the world, using the OpenWeatherMap API, and displays it in a graphical interface. Additionally, it allows users to compare weather conditions between two cities.
+A simple weather dashboard application built using Python and Tkinter. This app retrieves current weather data for cities worldwide using the OpenWeatherMap API and displays it in a user-friendly graphical interface. It also allows users to compare weather data between two cities, showing temperature, humidity, and wind speed side-by-side.
 
-## Features
-Current Weather Lookup: Enter a city name to see the current temperature, humidity, wind speed, and a brief weather description.
-City Comparison: Compare the weather conditions between two cities to view temperature, humidity, and wind speed side-by-side.
-## Requirements
+Features
+Current Weather Lookup: Enter a city name to get real-time weather details, including temperature, humidity, wind speed, and a weather description.
+City Comparison: Compare weather details between two cities.
+Requirements
 Python 3.x
-OpenWeatherMap API Key (You can obtain one by signing up at OpenWeatherMap)
-### Installation
+OpenWeatherMap API Key (Sign up for a free API key at OpenWeatherMap)
+Dependencies:
+requests (for making HTTP requests to the API)
+tkinter (for creating the graphical interface, usually included with Python)
+Installation
 Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/Divyadhanush07/Real-Time-Weather-Dashboard.git
+git clone https://github.com/yourusername/Real-Time-Weather-Dashboard.git
+cd Real-Time-Weather-Dashboard
+Install Dependencies Use pip to install requests:
+
+bash
+Copy code
+pip install requests
+Set Up OpenWeatherMap API Key Open the weather_dashboard.py file and replace the placeholder with your API key:
+
+python
+Copy code
+api_key = "YOUR_API_KEY_HERE"
+
+Acknowledgments
+OpenWeatherMap API: For providing global weather data.
