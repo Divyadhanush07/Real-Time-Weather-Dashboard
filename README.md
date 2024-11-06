@@ -5,11 +5,9 @@ A simple weather dashboard application built using Python and Tkinter. This app 
 Current Weather Lookup: Enter a city name to get real-time weather details, including temperature, humidity, wind speed, and a weather description.
 City Comparison: Compare weather details between two cities.
 ### Requirements
-Python 3.x
-OpenWeatherMap API Key (Sign up for a free API key at OpenWeatherMap)
-Dependencies:
-requests (for making HTTP requests to the API)
-tkinter (for creating the graphical interface, usually included with Python)
+- Python 3.x
+- OpenWeatherMap API Key (Sign up for a free API key at OpenWeatherMap)
+- tkinter (for creating the graphical interface, usually included with Python)
 
 ### Installation
 
