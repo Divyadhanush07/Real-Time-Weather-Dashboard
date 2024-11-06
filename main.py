@@ -93,5 +93,4 @@ compare_button.pack()
 comparison_label = tk.Label(root, text="", font=("Arial", 10), justify="left")
 comparison_label.pack()
 
-# Run the GUI loop
 root.mainloop()
