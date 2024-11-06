@@ -10,7 +10,9 @@ OpenWeatherMap API Key (Sign up for a free API key at OpenWeatherMap)
 Dependencies:
 requests (for making HTTP requests to the API)
 tkinter (for creating the graphical interface, usually included with Python)
+
 ### Installation
-Clone the Repository:
-git clone https://github.com/yourusername/Real-Time-Weather-Dashboard.git
-cd Real-Time-Weather-Dashboard
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Divyadhanush07/Real-Time-Weather-Dashboard.git
