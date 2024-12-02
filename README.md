@@ -1,5 +1,5 @@
 # Real-Time Weather Dashboard
-A simple weather dashboard application built using Python and Tkinter. This app retrieves current weather data for cities worldwide using the OpenWeatherMap API and displays it in a user-friendly graphical interface. It also allows users to compare weather data between two cities, showing temperature, humidity, and wind speed side-by-side.
+A weather dashboard application built using Python and Tkinter. This app retrieves current weather data for cities worldwide using the OpenWeatherMap API and displays it in a user-friendly graphical interface. It also allows users to compare weather data between two cities, showing temperature, humidity, and wind speed side-by-side.
 
 ## Features
 Current Weather Lookup: Enter a city name to get real-time weather details, including temperature, humidity, wind speed, and a weather description.
